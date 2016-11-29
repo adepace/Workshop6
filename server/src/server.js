@@ -1,3 +1,4 @@
+// I kind of read the section i guess
 var bodyParser = require('body-parser');
 // Imports the express Node module.
 var express = require('express');
